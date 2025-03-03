@@ -6,7 +6,7 @@ ID : CT08WRD
 
 Duration : February to March 2025
 
- Overview of the Prject:
+ Overview of the Project:
 
 Project Overview:
 The Weather API Client project is a Java-based application that consumes the OpenWeatherMap API to fetch current weather data for a specified location. The project demonstrates how to send HTTP requests, parse JSON responses, and display data in a structured format.
